@@ -7,6 +7,30 @@
       "type": "income",
       "createdAt": "2024-03-01T16:03:24.628Z",
       "id": 1
+    },
+    {
+      "decription": "Pizza",
+      "price": 83,
+      "category": "Alimentacao",
+      "type": "outcome",
+      "createdAt": "2024-03-01T16:45:20.366Z",
+      "id": 2
+    },
+    {
+      "decription": "xfsdf",
+      "price": 34234,
+      "category": "dsfdsf",
+      "type": "outcome",
+      "createdAt": "2024-03-02T20:18:45.393Z",
+      "id": 3
+    },
+    {
+      "decription": "Peca do carro",
+      "price": 3000,
+      "category": "Manutencao",
+      "type": "outcome",
+      "createdAt": "2024-03-05T16:12:26.107Z",
+      "id": 4
     }
   ]
 }

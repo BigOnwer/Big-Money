@@ -25,7 +25,6 @@ export function Transections() {
                           <td width="50%">{transaction.decription}</td>
                           <td>
                             <PriceHighlight variant={transaction.type}>
-                              {transaction.type === 'outcome' && '-'}
                               {priceFormatter.format(transaction.price)}
                               </PriceHighlight>
                           </td>
